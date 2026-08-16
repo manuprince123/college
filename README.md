@@ -215,7 +215,6 @@ const USE_BACKEND = false;
 const USE_BACKEND = true;
 // Then open index.html in a browser
 ```
-
 ---
 
 ## 🔌 API Endpoints Summary
